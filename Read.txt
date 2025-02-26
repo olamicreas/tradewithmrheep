@@ -1,0 +1,54 @@
+How to Test the WhatsApp Referral Bot
+
+Step 1: Save the Bot’s Number & Start
+	•	The user must save the bot’s number (+234 806 685 0927)
+	•	Send the following message to the bot:
+
+start
+
+
+	•	The bot will respond with:
+✅ A referral code (e.g., REF100)
+✅ A referral link to share with others
+
+Step 2: Share the Referral Link or Code
+	•	The user shares their referral link or code with others.
+	•	Example message to share:
+
+Join this bot using my referral link: [Generated Link]  
+or enter my referral code: REF100  
+
+Step 3: The Referred User Saves Mr. Heep’s Number
+	•	The referred user must:
+✅ Save Mr. Heep’s phone number: +234 701 052 8330
+✅ Send the following message to Mr. Heep:
+
+Hello, Mr. Heep. I’m from REF100. My name is _____  
+
+(Replace “REF100” with the actual referral code and “_____” with your name.)
+
+Step 4: The Referred User Completes Verification
+	•	After saving Mr. Heep’s number and sending him a message, the referred user must:
+✅ Go back to the bot and send:
+
+verify
+
+
+	•	The bot will check if Mr. Heep has also saved the referred user’s contact.
+
+Step 5: Referral is Counted
+	•	Only if verification is successful, the bot will count the referral for the original user who shared the link.
+	•	The referral count will increase in the leaderboard.
+
+Step 6: Check Your Referral Count
+	•	Users can check their referrals on the leaderboard page by searching for their name.
+
+Testing Summary
+
+✅ “start” generates a referral code and link.
+✅ The referred user must save Mr. Heep’s contact and send him a message.
+✅ The referred user must complete verification in the bot.
+✅ The referral only counts if the verification is successful.
+✅ The leaderboard updates the referral count after verification.
+
+This ensures only real referrals are counted, as both users must save each other’s contacts
